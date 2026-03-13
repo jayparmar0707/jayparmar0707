@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Jay Parmar.
-- 👀 I’m interested in artificial intelligence, neural tech, virtual/augmented reality, software development, hardware coding, etc.
-- 🌱 I’m currently learning java, web developement, machine learning, deep learning, and reinforcement learning
-- 💞️ I’m looking to collaborate on any forn of projects
-- 📫 How to reach me ja339952@ucf.edu
+CS @ UCF  
+Full Stack • AI • Security  
+JS | Python | C  
